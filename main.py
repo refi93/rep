@@ -1,4 +1,6 @@
+pridal som 4 riadky
 ajdlksajdlksad
 sajdlksajd
-sadjsalkdjssadjsa
-
+sadjssadjsa
+dsadsad
+sadsakdsa
