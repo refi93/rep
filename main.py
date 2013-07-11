@@ -5,4 +5,4 @@ pridany riadok dakam do stredu
 s
 lksajd
 sadjsalkdjssadjsa
-
+riadok x
